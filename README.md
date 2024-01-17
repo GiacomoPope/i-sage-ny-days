@@ -1,14 +1,23 @@
 # I-Sage-ny Days
 
-Small repo which contains some notes and resources to aid newcomers to sagemath for I-sage-ny days. 
+This small repo contains some notes and resources to aid newcomers to SageMath for I-sage-ny days. 
 
 ## Jupyter Notebooks
 
-- **General Tips**: Some useful tips and tricks which came to mind while I was writing everything else
+- **General Tips**: Some useful tips and tricks which are more about using Sage than doing mathematics with Sage
 - **Elliptic Curves**: Intended to be the first proper chunk of reading / experimentation for attendees. Includes discussion of how to instantiate fields and rings as well as covering some basics of elliptic curves and Sage functionality.
+- **Isogenies**: Building from the elliptic curve file, this gives an overview of how to compute isogenies and related functions using SageMath. This file compliments the first of the examples below. 
+- **Hyperelliptic Curves**: A small file with some basic functionality of hyperelliptic curves. The lack of depth in this file should motivate everyone to make some additions during this week!
+
+## Examples
+
+During the first day of the event, two examples were given. The notebooks used in these examples are:
+
+- Example One: Two isogenies between elliptic curves
+- Example Two: Quaternion Algebras
 
 ## Exercises
 
-Currently writing some basic exercises on Typst as an excuse to try it out. Seems like something between markdown and Latex. Pretty simple to use. 
+There are some extended exercises included below which can be used to practice the tips and tricks learnt within these notebooks.
 
-[Typst document](https://typst.app/project/rv4ZeFHC8hWrrJBLFC1FDS)
+[I-Sage-ny days exercises](https://typst.app/project/rv4ZeFHC8hWrrJBLFC1FDS)
